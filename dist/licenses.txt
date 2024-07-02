@@ -1,0 +1,35 @@
+Files (from OpenSSL):
+  cygcrypto-3.dll
+  cygssl-3.dll
+Sources:
+  https://github.com/openssl/openssl.git
+License:
+  Apache 2.0
+  https://github.com/openssl/openssl/blob/master/LICENSE.txt
+----
+Files (from CygWin):
+  cygwin1.dll
+License:
+  LGPLv3 with Cygwin Linking Exception
+  https://www.cygwin.com/licensing.html
+Sources:
+  https://github.com/cygwin/cygwin.git
+----
+Files (from LibGCC):
+  cyggcc_s-seh-1.dll
+  cygstdc++-6.dll
+  cygz.dll
+License:
+  GPLv3 with GCC Runtime Library Exception
+  https://github.com/gcc-mirror/gcc/blob/master/COPYING3
+  https://github.com/gcc-mirror/gcc/blob/master/COPYING.RUNTIME
+Sources:
+  https://github.com/gcc-mirror/gcc.git
+----
+Files (from the HAProxy project):
+  haproxy.exe
+License:
+  GPLv2+ (LGPLv2.1 for headers)
+  https://github.com/haproxy/haproxy/blob/master/LICENSE
+Sources:
+  https://github.com/haproxy/haproxy.git
